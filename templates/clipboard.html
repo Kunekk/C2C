@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schowek</title>
+    <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/static/css/styles.css" rel="stylesheet">
+</head>
+<body>
+    <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button>
+    <nav class="sidebar bg-dark text-white p-3">
+        <h4 class="text-center mb-4">C2C Panel</h4>
+        <ul class="nav flex-column">
+            <li class="nav-item"><a class="nav-link" href="/">Dashboard</a></li>
+            <li class="nav-item"><a class="nav-link" href="/agents.html">Agenci</a></li>
+            <li class="nav-item"><a class="nav-link" href="/commands_results.html">Komendy i Wyniki</a></li>
+            <li class="nav-item"><a class="nav-link" href="/keylogs.html">Keylogi</a></li>
+            <li class="nav-item"><a class="nav-link" href="/screenshots.html">Zrzuty ekranu</a></li>
+            <li class="nav-item"><a class="nav-link" href="/files.html">Pliki</a></li>
+            <li class="nav-item"><a class="nav-link" href="/system_info.html">Informacje systemowe</a></li>
+            <li class="nav-item"><a class="nav-link" href="/system_changes.html">Zmiany systemowe</a></li>
+            <li class="nav-item"><a class="nav-link active" href="/clipboard.html">Schowek</a></li>
+            <li class="nav-item"><a class="nav-link" href="/network_scan.html">Skan sieci</a></li>
+            <li class="nav-item"><a class="nav-link" href="/permissions.html">Uprawnienia</a></li>
+            <li class="nav-item"><a class="nav-link" href="/antivirus.html">Antywirus</a></li>
+            <li class="nav-item"><a class="nav-link" href="/passwords.html">Hasła</a></li>
+            <li class="nav-item"><a class="nav-link" href="/ids.html">IDS/IPS</a></li>
+            <li class="nav-item"><a class="nav-link" href="/agent_stats.html">Statystyki agenta</a></li>
+            <li class="nav-item"><a class="nav-link" href="/system_events.html">Zdarzenia systemowe</a></li>
+            <li class="nav-item"><a class="nav-link" href="/tasks.html">Zadania</a></li>
+            <li class="nav-item"><a class="nav-link" href="/groups.html">Grupy</a></li>
+            <li class="nav-item"><a class="nav-link" href="/errors.html">Błędy</a></li>
+            <li class="nav-item"><a class="nav-link" href="/reports.html">Raporty</a></li>
+            <li class="nav-item"><a class="nav-link" href="/logout">Wyloguj</a></li>
+        </ul>
+    </nav>
+
+    <main class="container-fluid">
+        <nav aria-label="breadcrumb" class="mb-4">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Dashboard</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Schowek</li>
+            </ol>
+        </nav>
+
+        <h2>Schowek</h2>
+        <div class="card mb-4">
+            <div class="card-body">
+                <h5 class="card-title">Wybierz agenta</h5>
+                <div class="agent-select-container mb-3">
+                    <div class="agent-select" data-selected-agent-id="">
+                        <span class="status-dot"></span>
+                        <span class="agent-select-text">Wybierz agenta</span>
+                    </div>
+                    <div class="agent-select-menu">
+                        <input type="text" class="agent-select-search" placeholder="Szukaj agenta...">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Dane schowka</h5>
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Czas</th>
+                            <th>Zawartość</th>
+                        </tr>
+                    </thead>
+                    <tbody id="clipboardTable"></tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+
+    <div class="toast-container position-fixed bottom-0 end-0 p-3">
+        <div id="errorToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+            <div class="toast-header">
+                <strong class="me-auto">Błąd</strong>
+                <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+            </div>
+            <div class="toast-body" id="errorToastBody"></div>
+        </div>
+    </div>
+
+    <script src="/static/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/chart.min.js"></script>
+    <script src="https://cdn.socket.io/4.7.5/socket.io.min.js"></script>
+    <script src="/static/js/scripts.js"></script>
+</body>
+</html>

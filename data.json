@@ -1,0 +1,1082 @@
+{
+  "agents": {
+    "b496ab11-11f6-2ded-e93e-b5da2dbbb430": {
+      "id": "b496ab11-11f6-2ded-e93e-b5da2dbbb430",
+      "hostname": "proxy",
+      "username": "root",
+      "os_info": "Linux 6.8.0-57-generic",
+      "ip": "10.10.10.7",
+      "last_seen": 1745487057.5490704,
+      "status": "online",
+      "is_vm": false,
+      "gui_available": true,
+      "sleep_until": 0,
+      "first_seen": 1744638227.3094537
+    }
+  },
+  "beacon_stats": {
+    "b496ab11-11f6-2ded-e93e-b5da2dbbb430": [
+      {
+        "timestamp": 1745485839.2887752,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745485852.3225,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745485867.3660185,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745485875.4008565,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745485891.4442773,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745485906.4857872,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745485917.5308135,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745485933.5790696,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745485942.6221666,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745485951.664452,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745485963.7070906,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745485973.7536535,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745485981.7982366,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745485990.8406498,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486007.8845046,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486023.9277985,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486037.9709442,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486048.012657,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486056.0552747,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486071.0901613,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486083.1323423,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486092.1741269,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486102.2170098,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486116.2582717,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486127.3004224,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486135.3424437,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486146.385087,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486158.4300902,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486175.4733615,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486188.5146809,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486195.5576358,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486209.5994096,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486226.6446779,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486235.6867564,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486245.728413,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486259.7641346,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486271.8076925,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486281.851708,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486298.8998485,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486315.9439344,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486327.9888656,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486335.034072,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486348.081427,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486356.1248329,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486373.1698756,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486390.214271,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486397.2604463,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486412.3028877,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486421.3374813,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486431.3823967,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486445.4273572,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486456.4733915,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486469.5172715,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486476.5579097,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486488.6052659,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486504.6480012,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486515.6900346,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486531.7337847,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486547.7752898,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486559.8229973,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486568.8709311,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486585.9150672,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486594.9587376,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486605.001124,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486612.035514,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486628.077106,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486641.119145,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486657.1631398,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486673.208777,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486690.2520478,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486705.2962127,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486717.342391,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486728.386345,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486744.4287012,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486753.4713693,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486768.5143418,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486777.5645866,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486788.6089308,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486799.6521077,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486811.6930707,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486826.7354448,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486843.781045,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486853.8236692,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486862.8666322,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486875.9082892,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486884.9513261,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486895.9951231,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486905.0397162,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486914.082037,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486922.124938,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486936.1669893,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486947.208434,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486958.2525806,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486972.301342,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745486989.3441648,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745487004.385538,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745487018.4276807,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745487028.4646182,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745487045.5061896,
+        "ip": "10.10.10.7"
+      },
+      {
+        "timestamp": 1745487057.5490704,
+        "ip": "10.10.10.7"
+      }
+    ]
+  },
+  "results": {
+    "b496ab11-11f6-2ded-e93e-b5da2dbbb430": [
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9eea780>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413846.646105,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9eea780>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f6a360>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413846.669267,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f6a360>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d09e20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413846.6890037,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d09e20>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d257f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413846.7091436,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d257f0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f904d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413846.7318387,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f904d0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6732adc70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413846.7521458,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6732adc70>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f918b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413846.7722292,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f918b0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6732affb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413846.7941973,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6732affb0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f69610>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413846.815831,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f69610>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727da600>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413846.8380654,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727da600>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f47470>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413846.858348,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f47470>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f445c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413846.878879,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f445c0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727b5d90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413846.8991976,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727b5d90>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c672783890>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413846.9196272,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c672783890>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f161e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413846.9396212,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f161e0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f16db0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413846.9611387,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f16db0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727b7cb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413846.9818213,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727b7cb0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f6b9e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.0022924,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f6b9e0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c672782600>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.0244632,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c672782600>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6732d8e90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.045672,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6732d8e90>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9eea090>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.0686655,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9eea090>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727524e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.0888968,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727524e0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9eea660>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.109191,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9eea660>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727501d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.129237,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727501d0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9ee98b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.1507978,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9ee98b0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727805f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.1733565,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727805f0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456ca1ced80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.1943772,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456ca1ced80>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c672753ef0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.2156568,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c672753ef0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456ca1ce120>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.235679,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456ca1ce120>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c672751580>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.2573402,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c672751580>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456ca1a2db0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.277429,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456ca1a2db0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c672783f20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.2975943,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c672783f20>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456ca1a2e10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.3180614,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456ca1a2e10>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727b6090>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.338212,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727b6090>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456ca1cec30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.3590896,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456ca1cec30>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727da150>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.3794577,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727da150>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456ca1cffe0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.3993876,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456ca1cffe0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6732afa10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.4190419,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6732afa10>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f90290>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.4388547,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f90290>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d09790>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.45904,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d09790>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456ca1cdbe0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.4790525,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456ca1cdbe0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d25970>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.4995515,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d25970>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9eea690>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.5187275,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9eea690>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d27620>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.5382142,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d27620>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9ee8380>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.5586548,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9ee8380>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d24a10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.5811691,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d24a10>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f17f50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.601956,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f17f50>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727537d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.6224713,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727537d0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f17ec0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.644354,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f17ec0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c67326ee10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.6652997,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c67326ee10>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f46690>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.686265,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f46690>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d540e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.708522,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d540e0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f45790>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.7300842,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f45790>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d26900>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.7518635,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d26900>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f68350>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.7732475,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f68350>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d0b7a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.7954,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d0b7a0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9522510>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.8167603,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9522510>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c95399d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.8383193,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c95399d0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d0b950>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.8576255,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d0b950>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727d81a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.8778799,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727d81a0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9520bc0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.8978598,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9520bc0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f69220>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.9180074,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f69220>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c672781190>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.937964,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c672781190>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f45700>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.9580448,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f45700>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c672753680>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413847.9795492,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c672753680>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f14bc0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.0014591,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f14bc0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d57830>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.0210333,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d57830>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f93320>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.0420966,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f93320>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d7ef00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.0631347,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d7ef00>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9ee9eb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.0832515,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9ee9eb0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d7f380>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.1040971,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d7f380>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9538440>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.124342,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9538440>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d7f560>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.144209,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d7f560>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9561160>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.1641135,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9561160>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9584620>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.1856575,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9584620>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671da8ef0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.2081385,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671da8ef0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671daa690>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.2268217,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671daa690>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c953be90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.2478871,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c953be90>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d7ff50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.2689958,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d7ff50>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9587980>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.2888606,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9587980>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9584e90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.3080976,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9584e90>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d7ed80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.3293302,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d7ed80>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d7d0a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.348929,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d7d0a0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9563680>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.3703537,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9563680>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d55700>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.3899615,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d55700>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9562a80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.4110205,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9562a80>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d55400>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.4308639,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d55400>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9560290>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.4510822,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9560290>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c672782330>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.4714262,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c672782330>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9560ad0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.4910831,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9560ad0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727d95e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.5133302,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6727d95e0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c953b4a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.5327427,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c953b4a0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d09df0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.5530813,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d09df0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c95382c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.5734177,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c95382c0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6732f1a00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.593196,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c6732f1a00>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456ca1cc2f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.6125386,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456ca1cc2f0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d24ce0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.632021,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d24ce0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9eeb3e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.65211,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9eeb3e0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671dd21b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.6727061,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671dd21b0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9ee8380>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.6930792,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9ee8380>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671df52e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745413848.7132192,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671df52e0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f479e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745415207.0755358,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f479e0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d24b60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745415207.0979726,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78c671d24b60>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "agent_error",
+        "result": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f149b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+        "timestamp": 1745415207.1197195,
+        "is_error": "HTTPSConnectionPool(host='10.10.10.8', port=5000): Max retries exceeded with url: /api/v1/analytics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7456c9f149b0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+      },
+      {
+        "command": "cat /etc/passwd",
+        "result": "root:x:0:0:root:/root:/bin/bash\ndaemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin\nbin:x:2:2:bin:/bin:/usr/sbin/nologin\nsys:x:3:3:sys:/dev:/usr/sbin/nologin\nsync:x:4:65534:sync:/bin:/bin/sync\ngames:x:5:60:games:/usr/games:/usr/sbin/nologin\nman:x:6:12:man:/var/cache/man:/usr/sbin/nologin\nlp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin\nmail:x:8:8:mail:/var/mail:/usr/sbin/nologin\nnews:x:9:9:news:/var/spool/news:/usr/sbin/nologin\nuucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin\nproxy:x:13:13:proxy:/bin:/usr/sbin/nologin\nwww-data:x:33:33:www-data:/var/www:/usr/sbin/nologin\nbackup:x:34:34:backup:/var/backups:/usr/sbin/nologin\nlist:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin\nirc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin\n_apt:x:42:65534::/nonexistent:/usr/sbin/nologin\nnobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin\nsystemd-network:x:998:998:systemd Network Management:/:/usr/sbin/nologin\nsystemd-timesync:x:997:997:systemd Time Synchronization:/:/usr/sbin/nologin\ndhcpcd:x:100:65534:DHCP Client Daemon,,,:/usr/lib/dhcpcd:/bin/false\nmessagebus:x:101:102::/nonexistent:/usr/sbin/nologin\nsystemd-resolve:x:992:992:systemd Resolver:/:/usr/sbin/nologin\npollinate:x:102:1::/var/cache/pollinate:/bin/false\npolkitd:x:991:991:User for polkitd:/:/usr/sbin/nologin\nsyslog:x:103:104::/nonexistent:/usr/sbin/nologin\nuuidd:x:104:105::/run/uuidd:/usr/sbin/nologin\ntcpdump:x:105:107::/nonexistent:/usr/sbin/nologin\ntss:x:106:108:TPM software stack,,,:/var/lib/tpm:/bin/false\nlandscape:x:107:109::/var/lib/landscape:/usr/sbin/nologin\nfwupd-refresh:x:989:989:Firmware update daemon:/var/lib/fwupd:/usr/sbin/nologin\nusbmux:x:108:46:usbmux daemon,,,:/var/lib/usbmux:/usr/sbin/nologin\nsshd:x:109:65534::/run/sshd:/usr/sbin/nologin\nkunek:x:1000:1000:kunek:/home/kunek:/bin/bash\nrtkit:x:110:111:RealtimeKit,,,:/proc:/usr/sbin/nologin\ndnsmasq:x:999:65534:dnsmasq:/var/lib/misc:/usr/sbin/nologin\nkernoops:x:111:65534:Kernel Oops Tracking Daemon,,,:/:/usr/sbin/nologin\ncups-pk-helper:x:112:112:user for cups-pk-helper service,,,:/nonexistent:/usr/sbin/nologin\nsystemd-oom:x:988:988:systemd Userspace OOM Killer:/:/usr/sbin/nologin\nwhoopsie:x:113:113::/nonexistent:/bin/false\navahi:x:114:116:Avahi mDNS daemon,,,:/run/avahi-daemon:/usr/sbin/nologin\nnm-openvpn:x:115:117:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/usr/sbin/nologin\nsaned:x:116:119::/var/lib/saned:/usr/sbin/nologin\ncolord:x:117:120:colord colour management daemon,,,:/var/lib/colord:/usr/sbin/nologin\nsssd:x:118:121:SSSD system user,,,:/var/lib/sss:/usr/sbin/nologin\nspeech-dispatcher:x:119:29:Speech Dispatcher,,,:/run/speech-dispatcher:/bin/false\ngeoclue:x:120:122::/var/lib/geoclue:/usr/sbin/nologin\ncups-browsed:x:121:112::/nonexistent:/usr/sbin/nologin\nhplip:x:122:7:HPLIP system user,,,:/run/hplip:/bin/false\ngnome-remote-desktop:x:987:987:GNOME Remote Desktop:/var/lib/gnome-remote-desktop:/usr/sbin/nologin\ngnome-initial-setup:x:123:65534::/run/gnome-initial-setup/:/bin/false\ngdm:x:124:124:Gnome Display Manager:/var/lib/gdm3:/bin/false\n",
+        "timestamp": 1745416320.7688487,
+        "is_error": false
+      },
+      {
+        "command": "cat /etc/hosts",
+        "result": "127.0.0.1 localhost\n127.0.1.1 proxy\n\n# The following lines are desirable for IPv6 capable hosts\n::1     ip6-localhost ip6-loopback\nfe00::0 ip6-localnet\nff00::0 ip6-mcastprefix\nff02::1 ip6-allnodes\nff02::2 ip6-allrouters\n",
+        "timestamp": 1745426205.968928,
+        "is_error": false
+      }
+    ]
+  },
+  "commands": {
+    "b496ab11-11f6-2ded-e93e-b5da2dbbb430": []
+  },
+  "sent_commands": {
+    "b496ab11-11f6-2ded-e93e-b5da2dbbb430": [
+      {
+        "command": "cat /etc/passwd",
+        "timestamp": 1745416316.6537178
+      },
+      {
+        "command": "cat /etc/hosts",
+        "timestamp": 1745426203.7897813
+      }
+    ]
+  },
+  "chat_messages": {
+    "b496ab11-11f6-2ded-e93e-b5da2dbbb430": []
+  },
+  "tasks": {
+    "b496ab11-11f6-2ded-e93e-b5da2dbbb430": []
+  }
+}
